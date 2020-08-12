@@ -81,6 +81,7 @@ class CountryCode {
         const val Germany = "DE"
         const val Ghana = "GH"
         const val Gibraltar = "GI"
+        const val GreatBritain = "GB"
         const val Greece = "GR"
         const val Greenland = "GL"
         const val Grenada = "GD"

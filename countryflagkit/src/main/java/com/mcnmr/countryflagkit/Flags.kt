@@ -87,6 +87,7 @@ class Flags {
                 CountryCode.Germany -> R.drawable.ic_flag_de
                 CountryCode.Ghana -> R.drawable.ic_flag_gh
                 CountryCode.Gibraltar -> R.drawable.ic_flag_gi
+                CountryCode.GreatBritain -> R.drawable.ic_flag_gb
                 CountryCode.Greece -> R.drawable.ic_flag_gr
                 CountryCode.Greenland -> R.drawable.ic_flag_gl
                 CountryCode.Grenada -> R.drawable.ic_flag_gd
